@@ -45,8 +45,8 @@ Currently looking for an **internship opportunity** to grow and apply my skills 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=RaffiAkhdilputra&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![Streak](https://streak-stats.demolab.com/?user=RaffiAkhdilputra&theme=dark&hide_border=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaffiAkhdilputra&theme=dark&hide_border=false&layout=compact)
+![Streak](https://streak-stats.demolab.com/?user=RaffiAkhdilputra&theme=dark&hide_border=false)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
