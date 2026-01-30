@@ -21,14 +21,12 @@ I'm a **6th-semester Informatics Engineering student** and currently a **Fullsta
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadraffiakhdilputra) [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raffiakdilputra123@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/akhdilputra_)
 
----
-
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akhdilputra_/Akhdilputra_/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akhdilputra_/Akhdilputra_/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Akhdilputra_/Akhdilputra_/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaffiAkhdilputra/RaffiAkhdilputra/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaffiAkhdilputra/RaffiAkhdilputra/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RaffiAkhdilputra/RaffiAkhdilputra/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
